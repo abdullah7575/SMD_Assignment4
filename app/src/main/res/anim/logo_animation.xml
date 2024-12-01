@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <translate
+        android:duration="1500"
+        android:fromYDelta="-100%p"
+        android:toYDelta="0"
+        />    <!-- Move to the center (original position) -->
+
+    <!-- Scale Animation: Slightly grow the logo during the animation -->
+    <scale
+        android:duration="1500"
+        android:fromXScale="0.2"
+        android:fromYScale="0.2"
+        android:toXScale="1"
+        android:toYScale="1"
+
+        />
+
+</set>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_horizontal">20dp</dimen>
+    <dimen name="product_item_design_mb_parent">10dp</dimen>
+    <dimen name="card_corner_radius">30dp</dimen>
+    <dimen name="card_elevation">10dp</dimen>
+    <dimen name="ll_margin">8dp</dimen>
+    <dimen name="product_title_text_size">16sp</dimen>
+    <dimen name="iv_edit_padding">10dp</dimen>
+    <dimen name="iv_de_padding">10dp</dimen>
+</resources>
